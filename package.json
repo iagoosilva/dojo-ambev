@@ -1,0 +1,24 @@
+{
+  "name": "dojo-ambev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iagoosilva/dojo-ambev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iagoosilva/dojo-ambev/issues"
+  },
+  "homepage": "https://github.com/iagoosilva/dojo-ambev#readme",
+  "dependencies": {
+    "cypress": "^10.9.0",
+    "faker-br": "^0.4.1"
+  }
+}
